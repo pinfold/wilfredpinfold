@@ -116,10 +116,9 @@ textarea {
 
 .myImg
 {
-	float:left;
-	height:75px;
-	width:50px;
+	padding: 60px;
 }
+
 
 .heading
 {
